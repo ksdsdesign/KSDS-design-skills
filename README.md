@@ -2,7 +2,7 @@
 
 Downloadable Skill packages for the KSDS public resource gallery.
 
-- [Website Accessibility Audit v1.0.1](./accessibility-audit-1.0.1.zip) — WCAG 2.2 AA testing workflow.
+- [Accessibility Audit v1.0.1](./accessibility-audit-1.0.1.zip) — WCAG 2.2 AA testing workflow.
 - [90s Comic Style v1.0.0](./90s-hiphop-style-main.zip) — retro American comic illustration style. Original work by [ASATELLITE](https://github.com/ASATELLITE/90s-hiphop-style); this ZIP is an unmodified snapshot of its public `main` branch from 2026-08-13.
 - [Brand IP Designer v1.0.0](./ip-designer-1.0.0.zip) — brand character concept and extension workflow.
 
